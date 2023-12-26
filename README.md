@@ -43,3 +43,14 @@ Para poder llevar adelante nuestro taller, haremos uso de múltiples herramienta
 
 </details>
 
+<details>
+
+<summary>3) Montaje de aspectos visuales</summary>
+
++ Descarga del [Pack de Recursos](https://kenney.nl/assets/platformer-art-deluxe#inline-download).
++ Creación del boceto en lápiz y papel.
++ Creación del código en Pygame Zero para cargar los assets descargados.
+<img src="assets/EstudioCine.png" width ="204" height = "123">
+
+</details>
+
