@@ -8,7 +8,7 @@
 
 ## Introducción a la programación mediante código en la Raspberry Pi
 
-![GIF Animado](https://github.com/FormacionIntec/TallerVideojuegos/blob/717a8cad9336d72741389a9995128f872bdfe8d6/mygif.gif)
+<img src="assets/mygif.gif" width="400" height="350" />
 
 En este taller se propone una introducción al diseño de videojuegos y a la programación con Python desde una Raspberry Pi. El mismo se complementa con los talleres de [Narrativas no Lineales](https://docs.google.com/presentation/d/1gBIHfYmq7jOo9Yg4-tv1tXL-XLvuvCOaUr7McVtxBJ0/edit?usp=sharing) y el de [Exploración de la placa Raspberry Pi](https://docs.google.com/presentation/d/1HZ0GHMZ_pe09u6gWEd8VEuLeG-s0_oNr-_CQm0VxHXk/edit?usp=drive_link). 
 
@@ -21,9 +21,15 @@ Para poder llevar adelante nuestro taller, haremos uso de múltiples herramienta
 
 ## Syllabus
 
-| Tema         | Descripción              |
-|--------------|--------------------------|
-| Intro a Python | [![Abrir en Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1D40Dv4HyaZIHxj4kKqnhPLD8LP4f2RDE#scrollTo=pRAYol7gySdK) |
-| Instalación  | Instrucciones para la instalación.          |
-| Uso          | Cómo utilizar el proyecto.                  |
-| Contribución | Guía para contribuir al proyecto.            |
+<details>
+
+<summary>1) Preparación del Entorno</summary>
+
++ Comandos de consola en Raspbian (Linux) para crear la estructura de archivos del proyecto
+<img src="assets/PalaEntorno.png" width ="116" height = "108">
+
++ Comandos de GitHub para: configurar la cuenta, clonar el ropositorio remoto y crear una rama.
+<img src="assets/MacetaEntorno.png" width ="215" height = "129">
+
+</details>
+
