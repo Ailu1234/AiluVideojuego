@@ -82,6 +82,6 @@ Para poder llevar adelante nuestro taller, haremos uso de múltiples herramienta
 + Agregado de cambios: "git commit".
 + Cambio de la rama personal a la rama principal: "git checkout main".
 + Subida de los cambios locales al repositorio remoto: "git push".
-<img src="assets/GitPush.png" width ="230" height = "120">
+<img src="assets/gitPush.png" width ="174" height = "203">
 
 </details>
