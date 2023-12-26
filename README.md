@@ -64,3 +64,14 @@ Para poder llevar adelante nuestro taller, haremos uso de múltiples herramienta
 
 </details>
 
+<details>
+
+<summary>5) Construcción del Joystick</summary>
+
++ Ensamblado del Joystick utilizando componentes electrónicos básicos (protoboard, cables y botones).
++ Conexión del Joystick a la RaspberryPi siguiendo el [esquema de pines GPIO](https://europe1.discourse-cdn.com/arduino/original/4X/0/1/8/01850d7ef20a1357cca734fa27bd628925122a87.png).
++ Creación de la función para implementar el Joystick dentro del juego.
+<img src="assets/joystick.png" width ="180" height = "180">
+
+</details>
+
