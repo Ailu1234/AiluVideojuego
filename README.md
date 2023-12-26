@@ -54,3 +54,13 @@ Para poder llevar adelante nuestro taller, haremos uso de múltiples herramienta
 
 </details>
 
+<details>
+
+<summary>4) Mecánica y Comportamientos del juego</summary>
+
++ Creación de las funciones para la movilidad del personaje (desplazamientos y gravedad).
++ Creación de las funciones para interactuar con el entorno (colisiones y final del juego).
+<img src="assets/cajaHerramientas.png" width ="200" height = "133">
+
+</details>
+
