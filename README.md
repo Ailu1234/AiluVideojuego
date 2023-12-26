@@ -33,3 +33,13 @@ Para poder llevar adelante nuestro taller, haremos uso de múltiples herramienta
 
 </details>
 
+<details>
+
+<summary>2) Exploración de Ejemplos</summary>
+
++ Lectura del código (python + Pygame Zero) de los ejemplos descargados.
++ Modificación de aspectos visuales de los ejemplos usando VIM.
+<img src="assets/MacetasEjemplos.png" width ="176" height = "157">
+
+</details>
+
